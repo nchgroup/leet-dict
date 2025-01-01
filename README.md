@@ -10,7 +10,6 @@ Usage: python script.py <word>
 
 ```
 $ python3 leet-dict.py microsoft
-MI(rO5oft
 M1croS0fT
 mIcR0$Of7
 MIcr0Soft
