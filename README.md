@@ -3,7 +3,7 @@ Leet dictionary generator
 
 # Usage
 ```
-Usage: python script.py <word>
+Usage: python3 leet-dict.py <word>
 ```
 
 ## Example
